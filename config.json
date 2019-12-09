@@ -115,7 +115,7 @@
 				"zoom":6.394067153843969,
 				"isSplit":false},
 		"mapStyle":
-				{"styleType":"dark",
+				{"styleType":"streets",
 				"topLayerGroups":{},
 				"visibleLayerGroups":{"label":true,"road":true,"border":false,"building":true,"water":true,"land":true,"3d building":false},
 				"threeDBuildingColor":[9.665468314072013,17.18305478057247,31.1442867897876],
